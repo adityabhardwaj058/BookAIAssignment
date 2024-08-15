@@ -1,0 +1,10 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+}
+
+#root {
+  box-sizing: border-box;
+  margin: 0px;
+  width: 100%;
+}
